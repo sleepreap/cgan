@@ -67,7 +67,7 @@ $ ./scripts/watch-demo
 
 Then visit `http://localhost:8080/demo/`.
 
-The `watch-demo` script monitors for changes of typescript code (e.g., `demo/ganlab.ts`)
+The `watch-demo` script monitors for changes of typescript code (e.g., `demo/ganlab_mnist.ts`)
 and compiles the code for you.
 
 ## Credit
