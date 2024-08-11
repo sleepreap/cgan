@@ -10,7 +10,6 @@ import * as tf from '@tensorflow/tfjs-core';
 import * as ganlab_input_providers from './ganlab_input_providers_mnist';
 import * as ganlab_drawing from './ganlab_drawing';
 import * as ganlab_evaluators from './ganlab_evaluators';
-import * as ganlab_models from './ganlab_models';
 
 const BATCH_SIZE = 150;
 const ATLAS_SIZE = 12000;
