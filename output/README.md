@@ -9,5 +9,5 @@ Saved bundled demo at output/index.html
 ```
 
 It will create two files in this folder: `index.html` and `bundle.js`. 
-Then, place these files into a server with `figures/`, `images/`, and `pretrained_models/`.
-Please see the branch `gh-pages` for an example.
+Then, place these files into the same folder with `figures/`, `images/`, and `pretrained_models/`. In this case, it will be in the demo folder.
+
